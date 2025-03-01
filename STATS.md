@@ -8,6 +8,12 @@
   <img alt="Langs" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erivlis&theme=material-palenight">
 </a>
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=erivlis/graphinate,erivlis/mappingtools&type=Date)](https://star-history.com/#erivlis/graphinate&erivlis/mappingtools&Date)
+
+
+
 
 ## Repos
 
