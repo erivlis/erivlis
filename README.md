@@ -1,11 +1,23 @@
-## Hi there 👋
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=purple&center=true&vCenter=true&width=800&lines=Welcome!+To+my+GitHub+acount...;" alt="Typing SVG"/>
+    </h1>
+</div>
 
-🔭 I’m currently maintaining
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erivlis&theme=github_dark" alt="GitHub Stats"/>
+</div>
+
+
+<h2>🔭 I’m currently maintaining</h2>
+
 - Graphinate
 - MappingTools
 - networkx-graphql
 
-I'd appreciate feedback if you tried using them.
+
+> I'd appreciate feedback if you tried using them.
+
 
 <!--
 **erivlis/erivlis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +30,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- visitor counter -->
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/erivlis/count.svg" />
+</p>
