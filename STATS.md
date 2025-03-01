@@ -7,14 +7,12 @@
 
 ### Graphinate
 
-<img alt="Graphinate Star Chart" src="https://starchart.cc/erivlis/graphinate.svg">
-
-https://starchart.cc/erivlis/graphinate.svg
+<img alt="Graphinate Star Chart" src="https://starchart.cc/erivlis/graphinate.svg?variant=adaptive">
 
 ### MappingTools
 
-<img alt="MappingTools Star Chart" src="https://starchart.cc/erivlis/mappingtools.svg">
+<img alt="MappingTools Star Chart" src="https://starchart.cc/erivlis/mappingtools.svg?variant=adaptive">
 
 ### networkx-graphql
 
-<img alt="networkx-graphql Star Chart" src="https://starchart.cc/erivlis/networkx-graphql.svg">
+<img alt="networkx-graphql Star Chart" src="https://starchart.cc/erivlis/networkx-graphql.svg?variant=adaptive">
