@@ -15,7 +15,7 @@
 - Graphinate
 - MappingTools
 - networkx-graphql
-
+- networkx-mermaid
 
 > I'd appreciate feedback if you tried using them.
 
