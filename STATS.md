@@ -8,12 +8,6 @@
   <img alt="Langs" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erivlis&theme=material-palenight">
 </a>
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=erivlis/graphinate,erivlis/mappingtools&type=Date)](https://star-history.com/#erivlis/graphinate&erivlis/mappingtools&Date)
-
-
-
 
 ## Repos
 
@@ -40,3 +34,12 @@
 </a>
 
 <img alt="networkx-graphql Star Chart" align="center" style="border-width: 4.5px" src="https://starchart.cc/erivlis/networkx-graphql.svg?variant=adaptive">
+
+---
+
+### networkx-mermaid
+<a href="https://github.com/erivlis/networkx-mermaid">
+  <img alt="networkx-mermaid Pin" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erivlis&repo=networkx-mermaid&show_owner=true&theme=material-palenight">
+</a>
+
+<img alt="networkx-mermaid Star Chart" align="center" style="border-width: 4.5px" src="https://starchart.cc/erivlis/networkx-mermaid.svg?variant=adaptive">
