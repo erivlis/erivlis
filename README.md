@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+---
 <!-- visitor counter -->
-<p align="center">visitors:
+<p align="center">
   <img height="20px" src="https://profile-counter.glitch.me/erivlis/count.svg" />
 </p>
