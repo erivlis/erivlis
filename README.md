@@ -16,7 +16,7 @@
 - networkx-graphql
 - networkx-mermaid
 
-> I'd appreciate feedback if you tried using them.
+> I'd appreciate feedback if you have tried using them.
 
 
 <!--
@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- visitor counter -->
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/erivlis/count.svg" />
+<p align="center">visitors:
+  <img height="20px" src="https://profile-counter.glitch.me/erivlis/count.svg" />
 </p>
