@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 ---
 <!-- visitor counter -->
 <p align="center">
-  <img height="20px" src="https://profile-counter.glitch.me/erivlis/count.svg" />
+  <img src="https://ghtb-counter.vercel.app/api/counter?username=erivlis&label=Profile%20Views&color=6366f1&style=flat" alt="Profile Views" />
 </p>
