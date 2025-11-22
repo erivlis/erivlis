@@ -11,10 +11,10 @@
 
 <h2>🔭 I’m currently maintaining</h2>
 
-- Graphinate
-- MappingTools
-- networkx-graphql
-- networkx-mermaid
+- [Graphinate](https://github.com/erivlis/graphinate)
+- [MappingTools](https://github.com/erivlis/mappingtools)
+- [networkx-graphql](https://github.com/erivlis/networkx-graphql)
+- [networkx-mermaid](https://github.com/erivlis/networkx-mermaid)
 
 > I'd appreciate feedback if you have tried using them.
 
