@@ -15,6 +15,7 @@
 - [MappingTools](https://github.com/erivlis/mappingtools)
 - [networkx-graphql](https://github.com/erivlis/networkx-graphql)
 - [networkx-mermaid](https://github.com/erivlis/networkx-mermaid)
+- [AlgebraX](https://github.com/erivlis/algebrax)
 
 > I'd appreciate feedback if you have tried using them.
 
