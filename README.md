@@ -11,11 +11,11 @@
 
 <h2>🔭 I’m currently maintaining</h2>
 
+- [AlgebraX](https://github.com/erivlis/algebrax)
 - [Graphinate](https://github.com/erivlis/graphinate)
 - [MappingTools](https://github.com/erivlis/mappingtools)
 - [networkx-graphql](https://github.com/erivlis/networkx-graphql)
 - [networkx-mermaid](https://github.com/erivlis/networkx-mermaid)
-- [AlgebraX](https://github.com/erivlis/algebrax)
 
 > I'd appreciate feedback if you have tried using them.
 
