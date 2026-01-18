@@ -11,6 +11,16 @@
 
 ## Repos
 
+### AlgebraX
+
+<a href="https://github.com/erivlis/graphinate">
+  <img alt="AlgebraX Pin" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erivlis&repo=algebrax&show_owner=true&theme=material-palenight">
+</a>
+
+![Alt](https://repobeats.axiom.co/api/embed/267c7ef19898a100d44739aee39010fd6fad3cd4.svg "Repobeats analytics image")
+
+<img alt="AlgebraX Star Chart" align="center" style="border-width: 4.5px" src="https://starchart.cc/erivlis/algebrax.svg?variant=adaptive">
+
 ### Graphinate
 
 <a href="https://github.com/erivlis/graphinate">
