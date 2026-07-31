@@ -9,30 +9,19 @@
 </div>
 
 
-<h2>🔭 I’m currently maintaining</h2>
+## 🔭 I’m currently maintaining
 
-- [AlgebraX](https://github.com/erivlis/algebrax)
-- [Graphinate](https://github.com/erivlis/graphinate)
-- [MappingTools](https://github.com/erivlis/mappingtools)
-- [networkx-graphql](https://github.com/erivlis/networkx-graphql)
-- [networkx-mermaid](https://github.com/erivlis/networkx-mermaid)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=erivlis%2Falgebrax&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/algebrax)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=erivlis%2Fgraphinate&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/graphinate)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=erivlis%2Fmappingtools&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/mappingtools)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=networkx-graphql&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/networkx-graphql)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=erivlis%2Fnetworkx-mermaid&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/networkx-mermaid)
 
 > I'd appreciate feedback if you have tried using them.
 
+## GISTs
 
-<!--
-**erivlis/erivlis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/gist?id=6134487fb07259526222efedc114a5b3&show_owner=true&theme=transparent)](https://gist.github.com/erivlis/6134487fb07259526222efedc114a5b3)
 
 ---
 <!-- visitor counter -->
