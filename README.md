@@ -31,7 +31,9 @@
 <div align="center">
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/gist?id=6134487fb07259526222efedc114a5b3&show_owner=true&theme=transparent)](https://gist.github.com/erivlis/6134487fb07259526222efedc114a5b3)
 </div>
----
+
+------
+
 <!-- visitor counter -->
 <div align="center">
   <img src="https://ghtb-counter.vercel.app/api/counter?username=erivlis&label=Profile%20Views&color=6366f1&style=flat" alt="Profile Views" />
