@@ -14,6 +14,8 @@
 ### Python
 <div align="center">
 
+<a href="https://github.com/erivlis/algebrax"><img alt="AlgebraX" src="https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=erivlis%2Falgebrax&show_owner=true&description_lines_count=1&theme=transparent" /></a>
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=erivlis%2Falgebrax&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/algebrax)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=erivlis%2Fgraphinate&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/graphinate)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=erivlis%2Fmappingtools&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/mappingtools)
