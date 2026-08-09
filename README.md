@@ -12,16 +12,14 @@
 ## Projects
 
 ### Python
-<div align="center">
 
-<a href="https://github.com/erivlis/algebrax"><img alt="AlgebraX" src="https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=erivlis%2Falgebrax&show_owner=true&description_lines_count=1&theme=transparent" /></a>
+<div align="center">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=erivlis%2Falgebrax&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/algebrax)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=erivlis%2Fgraphinate&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/graphinate)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=erivlis%2Fmappingtools&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/mappingtools)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=networkx-graphql&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/networkx-graphql)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=erivlis%2Fnetworkx-mermaid&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/networkx-mermaid)
-
 
 </div>
 
