@@ -15,11 +15,12 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=erivlis%2Falgebrax&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/algebrax)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=erivlis%2Fgraphinate&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/graphinate)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=erivlis%2Fmappingtools&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/mappingtools)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=networkx-graphql&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/networkx-graphql)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=erivlis%2Fnetworkx-mermaid&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/networkx-mermaid)
+[![AlgebraX GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=erivlis%2Falgebrax&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/algebrax)
+[![Graphinate GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=erivlis%2Fgraphinate&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/graphinate)
+[![MappingTools GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=erivlis%2Fmappingtools&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/mappingtools)
+[![networkx-graphql GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=networkx-graphql&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/networkx-graphql)
+[![netweorkx-mermaid GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=erivlis%2Fnetworkx-mermaid&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/networkx-mermaid)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=erivlis%2Ftur&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/tur)
 
 </div>
 
@@ -31,7 +32,7 @@
 
 <div align="center">
     
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/gist?id=6134487fb07259526222efedc114a5b3&show_owner=true&theme=transparent)](https://gist.github.com/erivlis/6134487fb07259526222efedc114a5b3)
+[![GIST GitHub Stats](https://github-stats-extended.vercel.app/api/gist?id=6134487fb07259526222efedc114a5b3&show_owner=true&theme=transparent)](https://gist.github.com/erivlis/6134487fb07259526222efedc114a5b3)
 
 </div>
 
