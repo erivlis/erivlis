@@ -8,8 +8,11 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erivlis&theme=github_dark" alt="GitHub Stats"/>
 </div>
 
-
 ## Projects
+
+> I'd appreciate **feedback**.
+> 
+> Please add a **star** for repos you use.
 
 ### Python
 
@@ -23,10 +26,6 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=erivlis&repo=erivlis%2Ftur&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/erivlis/tur)
 
 </div>
-
-> I'd appreciate **feedback** if you have tried using them.
-> 
-> Please **star** them if you are using them.
 
 ## GISTs
 
