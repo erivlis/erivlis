@@ -4,6 +4,13 @@
 
 ![Alt](https://repobeats.axiom.co/api/embed/267c7ef19898a100d44739aee39010fd6fad3cd4.svg "Repobeats analytics image")
 
+<a href="https://warpchart.dev/r/erivlis/graphinate">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://warpchart.dev/api/chart?repo=erivlis%2Fgraphinate&theme=dark">
+    <img alt="Live star telemetry of erivlis/graphinate" src="https://warpchart.dev/api/chart?repo=erivlis%2Fgraphinate&theme=light" loading="lazy">
+  </picture>
+</a>
+
 ### Graphinate
 
 ![Alt](https://repobeats.axiom.co/api/embed/683f50f1d2de0e13e468c34a692612c2de4d56bd.svg "Repobeats analytics image")
